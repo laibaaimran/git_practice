@@ -1,0 +1,8 @@
+Git command include
+Git status to show the status 
+Touch command to create a new  text file 
+Open command to open the text file 
+Git log command to view the user access and the senders address
+Git commit to commit the changes save 
+Clear to clear the command 
+Mkdir to create a new directory 
